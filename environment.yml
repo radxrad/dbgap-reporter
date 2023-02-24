@@ -1,0 +1,16 @@
+name: dbgap-reporter 
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.8
+  - jupyterlab=3
+  - jupyter-offlinenotebook
+  - pandas=1.5.2
+  - requests
+  - ipywidgets=7.6.2
+  - selenium=4.7.2
+  - webdriver-manager=3.8.5
+  - black
