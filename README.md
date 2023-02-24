@@ -15,5 +15,5 @@ The [RADxAuthorizedRequests notebook](notebooks/RADxAuthorizedRequests.ipynb) an
 - [RADx Digital Health Technologies (RADx-DHT)](https://www.nih.gov/news-events/news-releases/nih-awards-contracts-develop-innovative-digital-health-technologies-covid-19)
 
 
-
+[Run RADxAuthorizedRequests notebook](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/RADxAuthorizedRequests.ipynb)
 
