@@ -9,11 +9,9 @@ dependencies:
   - jupyterlab=3
   - jupyter-offlinenotebook
   - pandas=1.5.2
-  - requests
-  - ipywidgets=7.6.2
+  - ipywidgets=7.6.5
   - selenium=4.7.2
   - webdriver-manager=3.8.5
-#  - python-chromedriver-binary
   - black
   - pip
   - pip:
