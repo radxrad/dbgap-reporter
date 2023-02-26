@@ -4,6 +4,7 @@ import os
 import shutil
 import glob
 import time
+from tqdm import tqdm
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -25,6 +26,7 @@ def query_dbgap(query):
     button = driver.find_element(By.CLASS_NAME, "svr_container")
     time.sleep(3)
     button.click()
+    time.sleep(15)
 
 
 def download_studies_file(filepath):
@@ -43,13 +45,17 @@ def get_download_url(accession):
 def get_authorized_requests(studies):
     authorized_requests = pd.DataFrame()
 
-    for _, row in studies.iterrows():
-        df = pd.read_csv(get_download_url(row["accession"]), 
-                         usecols=["Requestor", "Affiliation", "Project", "Date of approval", "Request status", 
-                                  "Public Research Use Statement", "Technical Research Use Statement"],
-                     sep="\t")
-        df["accession"] = row["accession"]
-        df["name"] = row["name"]
-        authorized_requests = pd.concat([authorized_requests, df], ignore_index=True)
+    #for _, row in tqdm(studies.iterrows(), total=studies.shape[0]):
+    for _, row in tqdm(studies.iterrows(), total=studies.shape[0]):
+        try:
+            df = pd.read_csv(get_download_url(row["accession"]), 
+                             usecols=["Requestor", "Affiliation", "Project", "Date of approval", "Request status", 
+                                      "Public Research Use Statement", "Technical Research Use Statement"],
+                            sep="\t")
+            df["accession"] = row["accession"]
+            df["name"] = row["name"]
+            authorized_requests = pd.concat([authorized_requests, df], ignore_index=True)
+        except:
+            print(f"Skipping: {row['accession']} - no data.")
                                         
     return authorized_requests
