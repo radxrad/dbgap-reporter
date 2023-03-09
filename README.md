@@ -19,6 +19,6 @@ Analyzes the authorized requests for datasets submitted by the COVID Rapid Accel
 - [RADx Digital Health Technologies (RADx-DHT)](https://www.nih.gov/news-events/news-releases/nih-awards-contracts-develop-innovative-digital-health-technologies-covid-19)
 
 
-[![RADx Reporter](https://img.shields.io/badge/Launch-RADx%20Reporter-blue)](http://colab.research.google.com/github/radxrad/radx-reporter/blob/master/notebooks/RADxAuthorizedRequests.ipynb)
+[![RADx Reporter](https://img.shields.io/badge/Launch-RADx%20Reporter-blue)](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/radx-reporter.ipynb)
 
 
