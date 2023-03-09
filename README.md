@@ -19,4 +19,4 @@ The [RADxAuthorizedRequests notebook](notebooks/RADxAuthorizedRequests.ipynb) an
 
 [Run ReportDbGapRequestsColab.ipynb](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/ReportDbGapRequestsColab.ipynb)
 
-[Test automate_button_click_on_webpage_firefox_colab.ipynb](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/automate_button_click_on_webpage_firefox_colab.ipynb)
+[Run ReportDbGapRequestsColab1.ipynb](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/ReportDbGapRequestsColab1.ipynb)

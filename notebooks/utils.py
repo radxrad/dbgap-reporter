@@ -45,7 +45,6 @@ def get_download_url(accession):
 def get_authorized_requests(studies):
     authorized_requests = pd.DataFrame()
 
-    #for _, row in tqdm(studies.iterrows(), total=studies.shape[0]):
     for _, row in tqdm(studies.iterrows(), total=studies.shape[0]):
         try:
             df = pd.read_csv(get_download_url(row["accession"]), 
