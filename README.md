@@ -1,17 +1,15 @@
 # dbGaP Reporter
 
-WORK IN PROGRESS
+dbGaP Reporter analyzes data access requests for studies in the database of Genotypes and Phenotypes [dbGaP](https://www.ncbi.nlm.nih.gov/gap/).
 
-dbGaP Reporter downloads and analyzes requests for datasets in the [dbGaP system](https://www.ncbi.nlm.nih.gov/gap/).
-
-The number and type of requests for datasetsis a measure of impact of data sharing.
+The number and type of requests for datasets is a measure of impact of data sharing.
 
 Click the button below to launch dbGaP Reporter in Google Colab.
 
 [![dbGaP Reporter](https://img.shields.io/badge/Launch-dbGaP%20Reporter-blue)](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/dbgap-reporter.ipynb)
 
 ## RADx-rad Reporter
-RADx-rad Reporter is a customized version of the dbGaP reporter for the COVID Rapid Acceleration of Diagnostics [RADx Initiative](https://www.nih.gov/research-training/medical-research-initiatives/radx) projects:
+RADx-rad Reporter is a customized version of the dbGaP reporter for COVID Rapid Acceleration of Diagnostics [RADx Initiative](https://www.nih.gov/research-training/medical-research-initiatives/radx) projects:
 
 - [RADx Tech](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-tech)
 - [RADx Underserved Populations (RADx-UP)](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-up)
@@ -21,4 +19,7 @@ RADx-rad Reporter is a customized version of the dbGaP reporter for the COVID Ra
 
 [![RADx Reporter](https://img.shields.io/badge/Launch-RADx%20Reporter-blue)](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/radx-reporter.ipynb)
 
+## Citation
+Peter W. Rose, dbGaP-Reporter: Analysis of dataset access requests for studies in the database of Genotypes and Phenotypes [dbGaP](https://www.ncbi.nlm.nih.gov/gap/). Available online: https://github.com/radxrad/dbgap-reporter (2023).
 
+## Acknowledgements
