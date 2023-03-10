@@ -8,8 +8,8 @@ Click the button below to launch dbGaP Reporter in Google Colab.
 
 [![dbGaP Reporter](https://img.shields.io/badge/Launch-dbGaP%20Reporter-blue)](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/dbgap-reporter.ipynb)
 
-## RADx-rad Reporter
-RADx-rad Reporter is a customized version of the dbGaP reporter for COVID Rapid Acceleration of Diagnostics [RADx Initiative](https://www.nih.gov/research-training/medical-research-initiatives/radx) projects:
+## RADx Reporter
+RADx Reporter is a customized version of the dbGaP Reporter for COVID Rapid Acceleration of Diagnostics [RADx Initiative](https://www.nih.gov/research-training/medical-research-initiatives/radx) projects:
 
 - [RADx Tech](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-tech)
 - [RADx Underserved Populations (RADx-UP)](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-up)
