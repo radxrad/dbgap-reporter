@@ -20,7 +20,7 @@ RADx Reporter is a customized version of the dbGaP Reporter for COVID Rapid Acce
 [![RADx Reporter](https://img.shields.io/badge/Launch-RADx%20Reporter-blue)](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/radx-reporter.ipynb)
 
 ## Citation
-Peter W. Rose, dbGaP-Reporter: Analysis of dataset access requests for studies in the database of Genotypes and Phenotypes [dbGaP](https://www.ncbi.nlm.nih.gov/gap/). Available online: https://github.com/radxrad/dbgap-reporter (2023).
+Peter W. Rose, dbGaP Reporter: Analysis of dataset access requests for studies in the database of Genotypes and Phenotypes [dbGaP](https://www.ncbi.nlm.nih.gov/gap/). Available online: https://github.com/radxrad/dbgap-reporter (2023).
 
 ## Funding
 Development of this application was supported by the OFFICE OF THE DIRECTOR, NATIONAL INSTITUTES OF HEALTH:
