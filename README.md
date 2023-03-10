@@ -2,16 +2,16 @@
 
 WORK IN PROGRESS
 
-This repository downloads and analyzes the number authorized requests for dbGap datasets.
+dbGaP Reporter downloads and analyzes requests for datasets in the [dbGaP system](https://www.ncbi.nlm.nih.gov/gap/).
 
-The number and type of requests for datasets can be used as one measure of impact of data sharing.
+The number and type of requests for datasetsis a measure of impact of data sharing.
 
 Click the button below to launch dbGaP Reporter in Google Colab.
 
-[![dbGaP Reporter](https://img.shields.io/badge/Launch-dbGaP%20Reporter-blue)](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/ReportDbGapRequestsColab.ipynb)
+[![dbGaP Reporter](https://img.shields.io/badge/Launch-dbGaP%20Reporter-blue)](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/dbgap-reporter.ipynb)
 
-## Example Application
-Analyzes the authorized requests for datasets submitted by the COVID Rapid Acceleration of Diagnostics [RADx Initiative](https://www.nih.gov/research-training/medical-research-initiatives/radx) projects:
+## RADx-rad Reporter
+RADx-rad Reporter is a customized version of the dbGaP reporter for the COVID Rapid Acceleration of Diagnostics [RADx Initiative](https://www.nih.gov/research-training/medical-research-initiatives/radx) projects:
 
 - [RADx Tech](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-tech)
 - [RADx Underserved Populations (RADx-UP)](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-up)
