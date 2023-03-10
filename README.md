@@ -4,7 +4,7 @@ dbGaP Reporter analyzes data access requests for studies in the database of Geno
 
 The number and type of requests for datasets is a measure of impact of data sharing.
 
-Click the button below to launch dbGaP Reporter in Google Colab.
+Click the button below to launch dbGaP Reporter in your web browser.
 
 [![dbGaP Reporter](https://img.shields.io/badge/Launch-dbGaP%20Reporter-blue)](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/dbgap-reporter.ipynb)
 
