@@ -11,6 +11,7 @@ Click the button below to launch dbGaP Reporter in your web browser using Google
 ## RADx Reporter
 RADx Reporter is a customized version of the dbGaP Reporter for COVID Rapid Acceleration of Diagnostics [RADx Initiative](https://www.nih.gov/research-training/medical-research-initiatives/radx) projects:
 
+- [RADx Radical (RADx-rad)](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-rad)
 - [RADx Digital Health Technologies (RADx-DHT)](https://www.nih.gov/news-events/news-releases/nih-awards-contracts-develop-innovative-digital-health-technologies-covid-19)
 - [RADx Digital Health Technologies (RADx-DHT)](https://www.nih.gov/news-events/news-releases/nih-awards-contracts-develop-innovative-digital-health-technologies-covid-19)
 - [RADx Tech](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-tech)
