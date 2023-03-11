@@ -13,7 +13,7 @@ RADx Reporter is a customized version of the dbGaP Reporter for COVID Rapid Acce
 
 - [RADx Radical (RADx-rad)](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-rad)
 - [RADx Digital Health Technologies (RADx-DHT)](https://www.nih.gov/news-events/news-releases/nih-awards-contracts-develop-innovative-digital-health-technologies-covid-19)
-- [RADx Tech](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-tech)
+- [RADx Tech (RADx-TECH)](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-tech)
 - [RADx Underserved Populations (RADx-UP)](https://www.nih.gov/research-training/medical-research-initiatives/radx/radx-programs#radx-up)
 
 [![RADx Reporter](https://img.shields.io/badge/Launch-RADx%20Reporter-blue)](http://colab.research.google.com/github/radxrad/dbgap-reporter/blob/master/notebooks/radx-reporter.ipynb)
