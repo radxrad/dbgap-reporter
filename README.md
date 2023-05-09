@@ -1,6 +1,6 @@
 # dbGaP Reporter
 
-dbGaP Reporter analyzes data access requests for studies in the database of Genotypes and Phenotypes [dbGaP](https://www.ncbi.nlm.nih.gov/gap/). In addition, it queries Europe PMC for publications and preprints that cite or mention dbGaP accession numbers.
+dbGaP Reporter analyzes data access requests for studies in the database of Genotypes and Phenotypes [dbGaP](https://www.ncbi.nlm.nih.gov/gap/). In addition, it queries [Europe PMC](https://europepmc.org/) for publications and preprints that cite or mention dbGaP accession numbers.
 
 The number and type of requests for datasets is a measure of impact of data sharing.
 
